@@ -1,7 +1,11 @@
 {
   "name": "generator-byt-vue",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "vue自定义生成器",
+  "keywords": [
+    "vue",
+    "yeoman-generator"
+  ],
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
